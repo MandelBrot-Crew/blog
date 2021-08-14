@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mandelbrot-crew.github.io/blog/sitemap.xml

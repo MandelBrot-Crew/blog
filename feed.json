@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog",
+    "description": "",
+    "home_page_url": "https://mandelbrot-crew.github.io/blog",
+    "feed_url": "https://mandelbrot-crew.github.io/blog/feed.json",
+    "user_comment": "",
+    "icon": "https://mandelbrot-crew.github.io/blog/media/website/main.svg",
+    "author": {
+        "name": "MandelBrot Crew"
+    },
+    "items": [
+    ]
+}
